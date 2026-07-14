@@ -5,7 +5,7 @@ const mongoose =  require("mongoose");
 
 const  connectDB = async () => {
 
-    await mongoose.connect("mongodb+srv://BackendUser:parth24@learnbackend.mjtlrda.mongodb.net/Great?appName=LearnBackend")
+    await mongoose.connect("  ")
     console.log("Database Connected Successfully");
     
 }
