@@ -22,7 +22,7 @@ Each folder contains the code, experiments, and exercises completed on that day.
 
 ## Author
 
-Parth  Chittalwar
+Parth Santosh Chittalwar
 
 Third Year CS Undergraduate at PCE Nagpur
 
